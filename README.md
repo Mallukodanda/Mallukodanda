@@ -10,7 +10,7 @@ A passionate and actively looking for full-time opportunities. I specialize in b
 - 💬 Ask me about: Java, API design, full-stack integration, or Docker containers.
 - 👨‍💻 All of my projects are available at https://github.com/Mallukodanda/Mallukodanda/
 - - 📫 How to reach me: https://www.linkedin.com/in/mallannagoudak/
-- 📫 How to reach me:mallannagoudakodanda@gmail.com
+- 📫 How to reach me:  mallannagoudakodanda@gmail.com
 
 ---
 
