@@ -3,12 +3,12 @@
  
 Java Full Stack & DevOps Engineer!
 
-A passionate **2026 Recent Graduate** actively looking for full-time opportunities. I specialize in building robust enterprise applications using Java and Spring Boot, modern frontends with React, and setting up automated cloud deployment pipelines.
+A passionate and actively looking for full-time opportunities. I specialize in building robust enterprise applications using Java and Spring Boot, modern frontends with React, and setting up automated cloud deployment pipelines.
 
-- 🔭 **Current Focus:** Building microservices and containerizing applications.
-- ⚡ **Goal:** Deploying scalable, secure web architectures to the cloud.
-- 💬 **Ask me about:** Java, API design, full-stack integration, or Docker containers.
-- 📫 **How to reach me:**https://www.linkedin.com/in/mallannagoudak/
+- 🔭 Current Focus:Building microservices and containerizing applications.
+- ⚡ Goal: Deploying scalable, secure web architectures to the cloud.
+- 💬 Ask me about: Java, API design, full-stack integration, or Docker containers.
+- 📫 How to reach me: https://www.linkedin.com/in/mallannagoudak/
 - 👨‍💻 All of my projects are available at https://github.com/Mallukodanda/Mallukodanda/
 - 📫 How to reach me:mallannagoudakodanda@gmail.com
 
