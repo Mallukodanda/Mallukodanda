@@ -8,7 +8,7 @@ A passionate **2026 Recent Graduate** actively looking for full-time opportuniti
 - 🔭 **Current Focus:** Building microservices and containerizing applications.
 - ⚡ **Goal:** Deploying scalable, secure web architectures to the cloud.
 - 💬 **Ask me about:** Java, API design, full-stack integration, or Docker containers.
-- 📫 **How to reach me:** [Your LinkedIn Profile Link]
+- 📫 **How to reach me:**https://www.linkedin.com/in/mallannagoudak/
 
 ---
 
@@ -30,21 +30,6 @@ A passionate **2026 Recent Graduate** actively looking for full-time opportuniti
 - **Cloud Computing:** Amazon Web Services (AWS) 
 - **Tools & Automation:** Git, GitHub, Maven, Postman
 
----
-
-## 🚀 Key Projects
-
-#### 📂 [Project Name 1] - Full Stack Web Application
-* **Tech Stack:** React.js, Spring Boot, PostgreSQL, Docker
-* **Description:** Brief 1-sentence overview of what the application does.
-* **Key Feature:** "Containerized backend and frontend using Docker for smooth deployment environments."
-
-#### 📂 [Project Name 2] - Cloud-Integrated Backend App
-* **Tech Stack:** Java, Spring Boot, MySQL, AWS (EC2/S3)
-* **Description:** Brief 1-sentence overview explaining the project logic.
-* **Key Feature:** "Deployed REST APIs securely onto AWS EC2 cloud instances."
-
----
 
 ## 📊 GitHub Metrics
 
