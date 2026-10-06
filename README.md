@@ -32,6 +32,13 @@ A passionate and actively looking for full-time opportunities. I specialize in b
 - **Cloud Computing:** Amazon Web Services (AWS) 
 - **Tools & Automation:** Git, GitHub, Maven, Postman
 
+- ##Lang and tools
+  <p>
+   <img src="https://sheilds.io" alt="aws"/>
+   <img src="https://sheilds.io" alt="docker"/>
+   <img src="https://sheilds.io" alt="nginx"/>
+  </p>
+
 
 ## 📊 GitHub Metrics
 
