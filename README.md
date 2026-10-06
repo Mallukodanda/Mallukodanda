@@ -1,7 +1,7 @@
  # Hi 👋, I'm Mallannagouda Kodanda
  
  
- ###Java Full Stack & DevOps Engineer!
+Java Full Stack & DevOps Engineer!
 
 A passionate **2026 Recent Graduate** actively looking for full-time opportunities. I specialize in building robust enterprise applications using Java and Spring Boot, modern frontends with React, and setting up automated cloud deployment pipelines.
 
