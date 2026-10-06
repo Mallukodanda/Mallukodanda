@@ -9,6 +9,8 @@ A passionate **2026 Recent Graduate** actively looking for full-time opportuniti
 - ⚡ **Goal:** Deploying scalable, secure web architectures to the cloud.
 - 💬 **Ask me about:** Java, API design, full-stack integration, or Docker containers.
 - 📫 **How to reach me:**https://www.linkedin.com/in/mallannagoudak/
+- 👨‍💻 All of my projects are available at https://github.com/Mallukodanda/Mallukodanda/
+- 📫 How to reach me:mallannagoudakodanda@gmail.com
 
 ---
 
